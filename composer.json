@@ -1,6 +1,6 @@
 {
-    "name": "studiow/event",
-    "description": "Simple, container-aware event handler",
+    "name": "studiow/propeties",
+    "description": "A convenient way to store and retrieve properties and values",
     "type": "library",
     "license": "MIT",
     "authors": [
